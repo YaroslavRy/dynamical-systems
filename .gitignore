@@ -3,3 +3,4 @@ venv
 .vscode
 .ipynb_checkpoints
 include
+DS_Store
